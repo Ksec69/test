@@ -1,0 +1,51 @@
+h1{
+	text-align: center;
+	padding-bottom: 25px;
+	padding-top: 75px;
+}
+h2{
+	text-align: center;
+	padding-bottom: 75px;
+}
+.card{
+	background-color: white ;
+	border-radius: 15px /15px;
+	
+}
+#cadre{
+	display: flex;
+	justify-content: space-around;
+	padding-bottom: 150px;
+}
+h5{
+	color: blue;
+	font-size: 20px;
+	padding-bottom: 5px;
+}
+h4{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 27px;
+	padding-bottom: 20px;
+}
+h7{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 15px;
+}
+p{
+	font-size: 20px;
+}
+.media{
+	padding-top: 65px;
+}
+.shaddows{
+	border-radius: 15px;
+	box-shadow: 5px 5px 10px rgb(100, 100, 100);
+}
+.card-img-top{
+	border-radius: 10px;
+	height: 400px;
+}
+.card:hover{
+	background-color: rgb(227, 227, 227);
+
+}
